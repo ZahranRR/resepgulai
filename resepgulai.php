@@ -22,6 +22,16 @@ echo "Sepatula";
 echo "Pisau";
 echo "Blender";
 
+//Dewi fortuna
+
+echo "cara masak";
+
+echo "Blender / haluskan Bawang Merah, Bawang Putih, 1sdm gula dan tambahkan air 100ml";
+echo "Panaskan Minyak lalu masak bumbu halus sampai harum dan tambahkan santan";
+echo "masukkan ayam, tunggu sampai bumbu meresap lalu tambahkan air secukupnya";
+echo "tambahkan garam dan totole sesuai selera lalu masukan daun jeruk";
+echo "masak hingga kuah gulai mengental";
+
 
 
 
