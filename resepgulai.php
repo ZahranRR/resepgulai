@@ -1,7 +1,7 @@
 <?php
 
 echo "resep gulai ayam";
-
+//Zahran 
 echo "Bahan:";
 echo "Ayam 1KG";
 echo "Air 500ml";
@@ -13,12 +13,16 @@ echo "Garam, Gula dan Totole 1 Sdt";
 echo "Minyak Goreng";
 echo "Daun Jeruk 3 helai";
 
+
+//Fahrul
 echo "alat";
 
 echo "Panci";
 echo "Sepatula";
 echo "Pisau";
 echo "Blender";
+
+
 
 
 
