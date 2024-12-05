@@ -12,3 +12,13 @@ echo "Santan Kemasan 2";
 echo "Garam, Gula dan Totole 1 Sdt";
 echo "Minyak Goreng";
 echo "Daun Jeruk 3 helai";
+
+echo "alat";
+
+echo "Panci";
+echo "Sepatula";
+echo "Pisau";
+echo "Blender";
+
+
+
